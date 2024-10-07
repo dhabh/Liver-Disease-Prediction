@@ -26,7 +26,7 @@ Aspartate Aminotransferase
 
 Total Protiens 
 
-Using the indian_liver_patient dataset, we have performed a thorough analysis of the data which includes Correlation, Logit, Neural Network, XG gradient Boost and we have determined which model gives the best accuracy and helps us in predicting the liver disease.
+Using the indian_liver_patient dataset, we have performed a thorough analysis of the data which includes Correlation, Logit, Neural Network, Random Forest and we have determined which model gives the best accuracy and helps us in predicting the liver disease.
 
 we have converted the X-variable Gender into a dummy before starting the analysis.
 
